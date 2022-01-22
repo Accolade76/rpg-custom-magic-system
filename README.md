@@ -4,11 +4,19 @@
 
 Magic in many game systems has always annoyed me due to the lack of flexibility involved. I feel magic users, certainly general magic users, shoud have a diversity and flexibility to be creative. It is the very unpredictability of what a magic user can accomplish that makes them so impressive (and scary).
 
-## Rules
+## Mana / Power Points
 
 In this system, magic users will have mana/power points that they can spend on a magical effect. They 'concoct' spells by spending points on the 'ingredients'.
 
-Because of the nearly infinite combinations of ingredients and effects possible, **all spells are subject to GM approval**. If the GM feel some effect is too powerful or disruptive, they may disallow it or modify the conditions of its use.
+The source of these power points can be diverse and we encourage creativity in this respect. The power could be a reservoir of power internal to the character, or they could draw from nature around them, from the power of music, from the blessings of deities, etc. If you wanted to have a blood magician, then their power could stem from blood. How they gain and replenish this power is up to the GM, the setting and the character.
+
+Similarly, not all of the ingredients below need to be on offer. An illusionist may only have access to the area, duration, range and illusion ingredients. If they influence the minds of others as well, perhaps enchantment. If their illusions have a little bite, perhaps evocation or material/mass, etc.
+
+The idea is to provide a flexible system that also allows players to add their own color, creativity and style to their magic users.
+
+## Rules
+
+Because of the nearly infinite combinations of ingredients and effects possible, **all spells are subject to GM approval**. If the GM feels some effect is too powerful or disruptive, they may disallow it or modify the conditions of its use.
 
 The power level indicates an increase in power through experience. There are 5 power levels and you can map them to whatever form of advancement system you want to use, whether class levels or something else. Having a higher power level means that each mana/power point gets you a more powerful result.
 
