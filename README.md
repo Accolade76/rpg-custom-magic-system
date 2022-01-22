@@ -22,7 +22,7 @@ The power level indicates an increase in power through experience. There are 5 p
 
 You can also consider, when leveling up your magic users, whether or not their mana/power point pool also increases. Doing so would mean that you get **very** powerful magic users at higher levels.
 
-**Note:** Values in imperial units have been creatively rounded so that it's easier to calculate with them.
+**Note:** Values in imperial units have been creatively rounded so that it's easier to calculate with them. They are _approximately_ equivalent to the metric units, but slightly adapted for 'rounder' numbers.
 
 <table>
     <tr>
