@@ -116,7 +116,8 @@ You can also consider, when leveling up your magic users, whether or not their m
     </tr>
     <tr>
         <td>Mass/Material</td>
-        <td>Magically create something 'real'. This could be creating something out of nothing, or transmuting one thing into another. It is based on mass as an expression of the 'amount of reality'. Light materials are easier to create, denser ones require more power. Want your magic bolt to turn into an actual spear or arrow in mid-air? This is the ingredient you need to add.</td>
+        <td>Magically create something 'real' or manipulate material objects/items. This could be creating something out of nothing or moving/controlling existing non-organic matter. It is based on mass as an expression of the 'amount of reality'. Light materials are easier to create, denser ones require more power. Additionally, more valuable materials will be much more expensive to create. If gold was cheap for magic users to create, it would flood markets and de-value. The reason
+        rare materials remain rare is because they are scarce (GM's discretion on how expensive). Want your magic bolt to turn into an actual spear or arrow in mid-air? This is the ingredient you need to add. Want to make a chair slide across the floor? Ditto.</td>
         <td>1 kg (2 lbs)</td>
         <td>5 kg (10 lbs)</td>
         <td>10 kg (20 lbs)</td>
@@ -153,10 +154,10 @@ You can also consider, when leveling up your magic users, whether or not their m
     <tr>
         <td>Transformation</td>
         <td>The ability to change one thing/being into another. In the descriptions, 'material' refers to 1 element (for instance: lead into gold, etc). The rarer the material, the more difficult to transmute and the smaller the amount is that you can transmute. Turning stone into wool is easier (and can be done in greater volumes) than turning stone into gold. If it were so easy to transmute them, magic users would be flooding the markets with tons of transmuted valuables!</td>
-        <td>Transmute 1 material into another. Transform 1 creature per 10 points.</td>
-        <td>Transmute 2 materials. Transform 1 creature per 8 points.</td>
-        <td>Transmute 3 materials. Transform 1 creature per 6 points.</td>
-        <td>Transmute 4 materials. Transform 1 creature per 4 points.</td>
-        <td>Transmute 5 materials. Transform 1 creature per 2 points.</td>
+        <td>Transmute 1 material into another. Transform 1 creature/item per 10 points.</td>
+        <td>Transmute 2 materials. Transform 1 creature/item per 8 points.</td>
+        <td>Transmute 3 materials. Transform 1 creature/item per 6 points.</td>
+        <td>Transmute 4 materials. Transform 1 creature/item per 4 points.</td>
+        <td>Transmute 5 materials. Transform 1 creature/item per 2 points.</td>
     </tr>
 </table>
